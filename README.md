@@ -1,6 +1,6 @@
 ## Hi there 
 <h1 align="center">Hi 👋, I'm Smit Patel</h1>
-<h3 align="center">🚀 A passionate Developer from India 🇮🇳</h3>
+<h3 align="center">💻 I'm a beginner programmer from India 🇮🇳 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;C%2C+Java+%2C+Python+Developer;Frontend+with+HTML%2FCSS%2FJS;Always+learning+something+new!&center=true&width=440&height=45">
@@ -35,4 +35,5 @@
 ---
 
 ### 💡 Fun Fact:
-> “First, solve the problem. Then, write the code.” 💡
+> "Code is like humor. When you have to explain it, it’s bad." 😄
+
