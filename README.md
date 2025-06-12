@@ -24,7 +24,7 @@
 
 ### 🌐 Connect with me:
 <p>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/smit-patel-a93a53325?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ%2F56uVI2RRCSHzPunvnY7A%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your-email@gmail.com">
