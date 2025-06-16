@@ -1,9 +1,8 @@
-## Hi there 
-<h1 align="center">Hi 👋, I'm Smit Patel</h1>
-<h3 align="center">💻 I'm a beginner programmer from India 🇮🇳 </h3>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+!&center=true&color=FFFFFF&width=300&height=45">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;C%2C+Java+%2C+Python+Developer;Frontend+with+HTML%2FCSS%2FJS;Always+learning+something+new!&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast+-+Hi+there,+I+am+Smit,+well+known+of+Web+Development,+Java,+C,+C++,+Python,+Databases,+DSA.&center=true&width=1000&height=45">
+
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=SMIT5629&label=Profile%20views&color=0e75b6&style=flat)
