@@ -3,10 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast+-+Hi+there,+I+am+Smit,+well+known+of+Web+Development,+Java,+C,+C++,+Python,+Databases,+DSA.&center=true&width=1000&height=45">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Hi+there!;I+am+Smit;I+am+a+Web+Developer;Well+known+in+Java,+C,+C++,+Python,+Databases,+DSA.&center=true&width=1000&height=45">
 </p>
 
-<p align="center">
+</p>
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=SMIT5629&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
