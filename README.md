@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;C%2C+Java+%2C+Python+Developer;Frontend+with+HTML%2FCSS%2FJS;Always+learning+something+new!&center=true&width=440&height=45">
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
+
+[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
+
 ---
 
 ### 🛠️ Languages and Tools:
