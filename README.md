@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+!&center=true&color=FFFFFF&width=300&height=45">
 </p>
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Hello+there!;I+am+Smit+Patel;Aspiring+Full-Stack+Web+Developer;Proficient+in+Java,+C,+C++,+Python,+Databases,+and+DSA.&center=true&width=1000&height=45">
 </p>
