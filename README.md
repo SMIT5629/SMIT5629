@@ -1,22 +1,32 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+!&center=true&color=FFFFFF&width=300&height=45">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+!&center=true&color=FFFFFF&width=300&height=45">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast+-+Hi+there,+I+am+Smit,+well+known+of+Web+Development,+Java,+C,+C++,+Python,+Databases,+DSA.&center=true&width=1000&height=45">
-
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=SMIT5629&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SMIT5629&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
+### 🛠️ Languages, Tools & Technologies:
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Databases-4DB33D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -24,8 +34,8 @@
 ---
 
 ### 🌐 Connect with me:
-<p>
-  <a href="https://www.linkedin.com/in/smit-patel-a93a53325?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ%2F56uVI2RRCSHzPunvnY7A%3D%3D" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/smit-patel-a93a53325" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your-email@gmail.com">
@@ -36,5 +46,4 @@
 ---
 
 ### 💡 Fun Fact:
-> "Code is like humor. When you have to explain it, it’s bad." 😄
-
+> _"Code is like humor. When you have to explain it, it’s bad."_ 😄
