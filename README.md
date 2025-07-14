@@ -5,7 +5,7 @@
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Hello+there!;I+am+Smit+Patel;Aspiring+Full-Stack+Web+Developer;Proficient+in+Java,+C,+C++,+Python,+Databases,+and+DSA.&center=true&width=1000&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Hello+there!;I+am+Smit+Patel.&center=true&width=1000&height=45">
 </p>
 
 <p>
