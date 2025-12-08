@@ -17,29 +17,24 @@ I am enthusiastic about:
 - **Backend Development**
 - **Artificial Intelligence**
 
+
 I love exploring how things work — especially on the backend side — and I’m aiming to master as many backend concepts and technologies as possible.
 
-
-##  Improving Myself In
-- Web Development (Frontend + Backend)
-- MERN Stack Concepts
-- API Development & Integration
-- AI Tools & Basic ML Concepts
-- Databases & Query Optimization
-- Data Structures and Algorithms (DSA)
+I’m currently improving my skills in web development, both on the frontend and backend. I’m learning the MERN stack in a structured way and trying to understand how APIs work—how to build them and how to integrate them properly. I’ve also started exploring AI tools and some basic machine learning concepts. Alongside this, I’m learning more about databases, writing better queries, and understanding how to optimize them. I’m also practicing Data Structures and Algorithms to strengthen my problem-solving skills.
 
 
-##  Technologies Programming & Concepts I Know
-###  Databases  
-- MySQL (RDBMS)
-- DSA  
-- MongoDB   
-- JavaScript  
-- Node.js Basics  
-- DSA (Arrays, Strings, Linked Lists, Stacks, Queues, Trees, etc.) 
-- HTML, CSS, JavaScript  
-- Basic Backend Logic  
-- REST APIs  
+
+## Technologies, Programming & Concepts I Know
+
+**Databases**  
+MySQL (RDBMS) &nbsp;&nbsp;|&nbsp;&nbsp; MongoDB(nosql)  
+
+**Programming & Web**  
+C &nbsp;|&nbsp; Python &nbsp;|&nbsp;JavaScript &nbsp;|&nbsp; HTML & CSS &nbsp;|&nbsp; Node.js Basics &nbsp;|&nbsp; Reactjs &nbsp;|&nbsp; Expressjs 
+
+**CS Concepts**  
+DSA (Array,string,linkedlist,queue,stack,tree)
+
 
 ---
 
