@@ -3,39 +3,43 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+!&center=true&color=FFFFFF&width=300&height=45">
 </p>
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Hello+there!;I+am+Smit+Patel.&center=true&width=1000&height=45">
-</p>
+# Hello! 👋
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=SMIT5629&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
+I am currently pursuing my **B.E. at Government Engineering College, Bhavnagar**.
 
-### 🛠️ Languages, Tools & Technologies:
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+I am enthusiastic about:
+- **Web Development**
+- **Modern Frameworks & Technologies**
+- **Backend Development**
+- **Artificial Intelligence**
 
----
+I love exploring how things work — especially on the backend side — and I’m aiming to master as many backend concepts and technologies as possible.
 
-### 🌐 Connect with me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/smit-patel-a93a53325" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+##  Improving Myself In
+- Web Development (Frontend + Backend)
+- MERN Stack Concepts
+- API Development & Integration
+- AI Tools & Basic ML Concepts
+- Databases & Query Optimization
+- Data Structures and Algorithms (DSA)
+
+
+##  Technologies Programming & Concepts I Know
+###  Databases  
+- MySQL (RDBMS)
+- DSA  
+- MongoDB   
+- JavaScript  
+- Node.js Basics  
+- DSA (Arrays, Strings, Linked Lists, Stacks, Queues, Trees, etc.) 
+- HTML, CSS, JavaScript  
+- Basic Backend Logic  
+- REST APIs  
 
 ---
 
